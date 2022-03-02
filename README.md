@@ -1,2 +1,2 @@
-# SAM-
+# SAM
 Some experiments about SAM.
